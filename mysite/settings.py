@@ -25,7 +25,9 @@ SECRET_KEY = 'z31cut%9us$g$0-(j_09&bfox$*c*-*jz_m$_zoqj8-zfy6k)z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'kuchen.pythonanywhere.com'
+]
 
 
 # Application definition
