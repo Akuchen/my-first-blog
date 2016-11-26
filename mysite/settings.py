@@ -26,7 +26,8 @@ SECRET_KEY = 'z31cut%9us$g$0-(j_09&bfox$*c*-*jz_m$_zoqj8-zfy6k)z'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'kuchen.pythonanywhere.com'
+    'kuchen.pythonanywhere.com',
+    '127.0.0.1'
 ]
 
 
